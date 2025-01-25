@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    color: #3c15e9;
+}
+
+h2 {
+    color: #2eaf4a;
+}
+
+h6 {
+    color: #e71a1a;
+    font-style: italic;
+}
