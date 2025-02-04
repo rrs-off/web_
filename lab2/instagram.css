@@ -1,0 +1,97 @@
+#phone{
+    height: 538px;
+    position: absolute;
+    top: 70px;
+    left: 400px;
+}
+#logo{
+    width: 175px;
+}
+#logofacebook{
+    width: 20px;
+    margin-right: 10px;
+}
+.kiru{
+    width: 260px;
+    height: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+    transition: 0.1s;
+}
+.kiru:focus{
+    border-color: solid black;
+
+}
+.parol{
+    width: 260px;
+    height: 35px;
+    margin-bottom: 20px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+
+}
+button{
+    width: 263px;
+    height: 36px;
+    border-radius: 7px;
+    border: 1px solid #dddfe2;
+    background-color: #3482f6;
+    font-style: initial;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#box1{
+    width: 330px;
+    height: auto;
+    border: 1px solid silver;
+    text-align: center;
+    position: absolute;
+    top: 70px;
+    
+    right: 400px;
+}
+#box1-margin{
+    margin-top: 60px;
+}
+a{
+    text-decoration: none;
+}
+#pm{
+    height: 40px;
+}
+#box2{
+    text-align: center;
+    width: 330px;
+    border: 1px solid silver;
+    position: absolute;
+    right: 400px;
+    top: 510px;
+}
+#box3{
+    position: absolute;
+    right: 450px;
+    top: 560px;
+    text-align: center;
+}
+#as{
+    height: 40px;
+}
+.log{
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.lr{
+    color: #0095f6;
+}
+.forg{
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#forg{
+    color: black;
+}

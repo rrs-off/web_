@@ -1,0 +1,172 @@
+a{
+    text-decoration: none;
+}
+.menu-bg{
+    height: 49px;
+    background-color: white;
+}
+.menu-l{
+    position: absolute;
+    left: 240px;
+    top: 13px;
+}
+.menu-l1{
+    margin: 5px;
+    color: #161616;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#logo{
+    height: 23px;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+.menu-r{
+    position: absolute;
+    right: 100px;
+    top: 14px;
+}
+.menu-r1{
+    color: #161616;
+    margin: 5px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+}
+#fr-bg{
+    height: 58px;
+    background-color: #0067b8;
+}
+#fr{
+    position: absolute;
+    top: 74px;
+    left: 500px;
+}
+.fr-text{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.wh{
+    height: 50px;
+    text-align: center;
+}
+#wh{
+    font-size: 50px;
+    font-family: 'Segoe UI';
+}
+.button1{
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    left: 390px;
+}
+#ns{
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#nr{
+    margin: 5px;
+}
+.button1 button{
+    background-color: black;
+    color: white;
+    border-style: dashed;
+    height: 40px;
+    margin: 10px;
+}
+.infoo{
+    top: 1000px;
+    position: absolute;
+    left: 45px;
+}
+.img1{
+    height: 260px;
+}
+#img11{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.whitee{
+    position: absolute;
+    top: 1250px;
+    left: 45px;
+}
+.white{
+    width: 461.91px;
+}
+#white2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#csb{
+    position: absolute;
+    top: 1260px;
+    left: 60px;
+}
+#kmm{
+    position: absolute;
+    top: 1260px;
+    left: 555px;
+}
+#m3c{
+    position: absolute;
+    top: 1260px;
+    left: 1040px;
+}
+.textp{
+    width: 375px;
+}
+#bic{
+    position: absolute;
+    top: 1310px;
+    left: 60px;
+}
+#sad{
+    position: absolute;
+    top: 1310px;
+    left: 555px;
+}
+#stf{
+    position: absolute;
+    top: 1310px;
+    left: 1040px;
+}
+.btn{
+    background-color: #0067b8;
+    position: absolute;
+    top: 1410px;
+    height: 40px;
+    border-style: dashed;
+    border: #0067b8;
+}
+#cd{
+    left: 60px;
+}
+#cdd{
+    color: white;
+}
+#sn{
+    left: 555px;
+}
+#snn{
+    color: white;
+}
+#ln{
+    left: 1040px;
+}
+#lnn{
+    color: white;
+}
+#btn77{
+    background-color: white;
+    border-style: dashed;
+    border: white;
+}
