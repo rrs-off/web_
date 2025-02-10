@@ -1,6 +1,57 @@
 a{
     text-decoration: none;
 }
+.aa{
+    width: 40px;
+}
+.box1{
+    text-align: center;
+    width: 155px;
+    font-size: small;
+    position: absolute;
+    top: 1800px;
+    left: 172.5px;
+}
+.box2{
+    text-align: center;
+    width: 155px;
+    font-size: small;
+    position: absolute;
+    top: 1800px;
+    left: 377.5px;
+}
+.box3{
+    text-align: center;
+    width: 155px;
+    font-size: small;
+    position: absolute;
+    top: 1800px;
+    left: 582.5px;
+}
+.box4{
+    text-align: center;
+    width: 155px;
+    font-size: small;
+    position: absolute;
+    top: 1800px;
+    left: 787.5px;
+}
+.box5{
+    text-align: center;
+    width: 155px;
+    font-size: small;
+    position: absolute;
+    top: 1800px;
+    left: 992.5px;
+}
+.box6{
+    text-align: center;
+    width: 155px;
+    font-size: small;
+    position: absolute;
+    top: 1800px;
+    left: 1197.5px;
+}
 .menu-bg{
     height: 49px;
     background-color: white;
