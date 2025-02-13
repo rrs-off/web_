@@ -1,9 +1,9 @@
 <div class="container">
   <h1>List of products from Kaspi</h1>
   <div class="product-list">
-    <div class="product-card" *ngFor="let product of products">
+    <div class="product-card" >
       <div class="image-gallery">
-        <img [src]="product.imageUrls[0]" alt="{{ product.name }}" class="main-image">
+        <img src="" alt="">
         <div class="main-photo">
           <img *ngFor="let img of product.imageUrls" [src]="img" class="thumbnail">
         </div>
