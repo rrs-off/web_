@@ -1,6 +1,11 @@
 function addTask() {
     let taskInput = document.getElementById("taskInput");
+    let a = length(taskInput);
     let taskText = taskInput.value.trim();
+    if (taskText === null) alert("enter text");
+
+
+
     if (taskText === "") return;
     
     let li = document.createElement("li");
